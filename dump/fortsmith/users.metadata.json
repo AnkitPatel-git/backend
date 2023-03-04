@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"fortsmith.users"},{"v":2,"unique":true,"key":{"email":1},"name":"email_1","ns":"fortsmith.users","background":true}],"uuid":"0d11d34a7dd7495fa2a20f2b5493844c"}
