@@ -13,7 +13,7 @@ mongoose.set('strictQuery', true);
 
 
 //global Variable
-global.imageBaseDir = '/home/sbfasto/backendfortsmith.sbfasto.com/public/';
+global.imageBaseDir = '/public/';
 
 // mongoose.connect("mongodb+srv://fortsmithdb:g2ALaPWlp1obLJ65@cluster0.4x1bczr.mongodb.net/MyFirstDatabase?retryWrites=true&w=majority", {
 //       useNewUrlParser: true,
